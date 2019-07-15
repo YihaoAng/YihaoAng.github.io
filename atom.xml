@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yihaoang.github.io/</id>
     <title>Yihao Ang</title>
-    <updated>2019-07-15T13:58:46.319Z</updated>
+    <updated>2019-07-15T13:59:45.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yihaoang.github.io/"/>
     <link rel="self" href="https://yihaoang.github.io//atom.xml"/>
@@ -27,7 +27,7 @@
         <link href="https://yihaoang.github.io//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>This is the first page.</p>
+        <content type="html"><![CDATA[<p>Welcome to my homepage!</p>
 ]]></content>
     </entry>
 </feed>
